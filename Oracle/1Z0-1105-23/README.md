@@ -1,0 +1,1 @@
+# Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)
